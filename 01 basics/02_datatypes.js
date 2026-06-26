@@ -7,3 +7,6 @@ console.log("rishi")
 //string=>""
 //boolean
 //null
+//undefined
+//symbol
+console.log(typeof "rishi")
