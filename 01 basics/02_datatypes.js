@@ -8,5 +8,8 @@ console.log("rishi")
 //boolean
 //null
 //undefined
-//symbol
+//symbol--> this is unique
+const id=Symbol('123')
+const anotherId= Symbol('123')
+console.log(id==anotherId);// false aayega
 console.log(typeof "rishi")
